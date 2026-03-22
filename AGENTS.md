@@ -62,6 +62,7 @@ Git、Docker、CI/CD、开发环境、效率工具
 |------|------|------|
 | [harness-engineering.md](./learning/harness-engineering.md) | Harness Engineering: 利用 Codex 构建 Agent-First 世界 | OpenAI 团队 5 个月实验：完全用 Codex AI Agent 构建 100 万行代码产品的心得。核心：人类掌舵 Agent 执行、环境设计比写代码重要、给地图而非手册、严格架构边界等。 |
 | [skill-design-principles.md](./learning/skill-design-principles.md) | Skill 设计原则：宪法式设计 | 来源：Anthropic "Building Effective Agents" + Block Engineering。核心：用「宪法」替代「 SOP 」，五个设计原则：二区架构、约束>步骤、写宪法不写建议、自我纠错机制、简约+渐进式披露。 |
+| [create-effective-skill.md](./learning/create-effective-skill.md) | 创建 Skill 的核心思路 | 同来源汇总：核心思想用「宪法」替代「SOP」、五个设计原则（约束>步骤、写宪法不写建议等）、Anthropic 三条核心原则。 |
 | [ai-as-partner.md](./learning/ai-as-partner.md) | 把 AI 当成伙伴：超越工具的培养之道 | 来源：文章《让你的 AI 更聪明》。核心：教会能力而非 SOP、AI 懒是目标错位、让 AI 陪你学习。三点：能力=宪法+边界、重新定义完成、开放知识给 AI 上下文。 |
 | [skill-community-practice.md](./learning/skill-community-practice.md) | Skill 社区实践与思想哲学 | GitHub 549+ skills 生态汇总：官方 Anthropic 16+ skills、大厂官方 skills (Vercel/Stripe/Cloudflare/Expo)、社区思想哲学、安全警告、创建最佳实践。 |
 
